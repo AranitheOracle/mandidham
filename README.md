@@ -23,16 +23,16 @@ No more bargaining in crowded markets or worrying about scams. We make the whole
 > Replace the image links below with your own once ready.
 
 **🖼️ Home Page**
-![Home Page](IMAGE_LINK_1)
+![Home Page](https://github.com/AranitheOracle/mandidham/blob/main/images/home.jpeg)
 
 **🖼️ Product Listing**
-![Product Listing](IMAGE_LINK_2)
+![Product Listing](https://github.com/AranitheOracle/mandidham/blob/main/images/display.jpeg)
 
 **🖼️ Product Detail View**
-![Product Detail View](IMAGE_LINK_3)
+![Product Detail View](https://github.com/AranitheOracle/mandidham/blob/main/images/buy.jpeg)
 
 **🖼️ SignIn/SignUp**
-![Wishlist and Profile](IMAGE_LINK_4)
+![Wishlist and Profile](https://github.com/AranitheOracle/mandidham/blob/main/images/login.jpeg)
 
 ---
 
